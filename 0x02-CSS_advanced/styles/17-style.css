@@ -90,7 +90,6 @@ a:active {
 
 .section {
   padding: var(--section-padding);
-
 }
 
 .section-header {
@@ -128,6 +127,6 @@ a:active {
   margin-right: auto;
 }
 
-footer {
+.footer {
   padding: var(--footer-padding);
 }
